@@ -3,3 +3,4 @@ Hi How are you
 I m know changing the file # purpose use of PULL command 
 hi
 know i m adding more content to this file # commit-2
+hello
